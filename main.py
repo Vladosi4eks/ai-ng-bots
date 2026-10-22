@@ -23,7 +23,7 @@ if not os.path.exists(browsers_path) or not os.listdir(browsers_path):
 from playwright.async_api import async_playwright
 
 # ==================== ТВОЇ ДАНІ ЗАПОВНЕНІ ====================
-DISCORD_TOKEN = "MTU2Mjg4MTc3NzE5Njg1OTQ5Mw.GrTck9.wXBt0iTpwuc4NsfIL5StCv6dx_EjT8u_eqVAbo"
+DISCORD_TOKEN = "MTU2Mjg4MTc3NzE5Njg1OTQ5Mw.GnUHEm.qMZiG13CpiSlkZCnpOjd60HoMOfo9yRG_63Uf8"
 CHANNEL_ID = 1562885221051801740
 PROJECT_URL = "https://flow.google.com/u/4/project/4f535ba4-8389-4a4d-8a10-8cc8f13e1071"
 USER_DATA_DIR = "./"
